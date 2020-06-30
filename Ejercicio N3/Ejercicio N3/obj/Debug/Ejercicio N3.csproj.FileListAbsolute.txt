@@ -1,0 +1,5 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N3\Ejercicio N3\bin\Debug\Ejercicio N3.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N3\Ejercicio N3\bin\Debug\Ejercicio N3.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N3\Ejercicio N3\bin\Debug\Ejercicio N3.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N3\Ejercicio N3\obj\Debug\Ejercicio N3.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N3\Ejercicio N3\obj\Debug\Ejercicio N3.pdb

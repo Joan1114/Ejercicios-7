@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N5 (2)\Ejercicio N5 (2)\bin\Debug\Ejercicio N5 (2).exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N5 (2)\Ejercicio N5 (2)\bin\Debug\Ejercicio N5 (2).exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N5 (2)\Ejercicio N5 (2)\bin\Debug\Ejercicio N5 (2).pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N5 (2)\Ejercicio N5 (2)\obj\Debug\Ejercicio N5 (2).csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N5 (2)\Ejercicio N5 (2)\obj\Debug\Ejercicio N5 (2).exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio N5 (2)\Ejercicio N5 (2)\obj\Debug\Ejercicio N5 (2).pdb

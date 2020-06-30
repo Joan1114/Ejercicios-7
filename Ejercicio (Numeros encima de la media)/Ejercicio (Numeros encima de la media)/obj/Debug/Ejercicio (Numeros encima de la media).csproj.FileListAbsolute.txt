@@ -1,0 +1,5 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio (Numeros encima de la media)\Ejercicio (Numeros encima de la media)\bin\Debug\Ejercicio (Numeros encima de la media).exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio (Numeros encima de la media)\Ejercicio (Numeros encima de la media)\bin\Debug\Ejercicio (Numeros encima de la media).exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio (Numeros encima de la media)\Ejercicio (Numeros encima de la media)\bin\Debug\Ejercicio (Numeros encima de la media).pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio (Numeros encima de la media)\Ejercicio (Numeros encima de la media)\obj\Debug\Ejercicio (Numeros encima de la media).exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Ejercicio (Numeros encima de la media)\Ejercicio (Numeros encima de la media)\obj\Debug\Ejercicio (Numeros encima de la media).pdb
